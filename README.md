@@ -261,7 +261,3 @@ Improvements welcome! Suggested enhancements:
 - Integration with packet analysis pipelines (e.g., Zeek, Suricata)
 
 Please open issues or PRs with test steps and environment details.
-
-## License
-
-This repository does not include a license file. If you intend to share or reuse this script, add an appropriate license (e.g., MIT) to clarify usage and redistribution.
